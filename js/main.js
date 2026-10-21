@@ -83,7 +83,7 @@
 
   // Versand an Supabase (Tabelle offerte_anfragen, nur INSERT für anonyme Besucher erlaubt).
   var SUPABASE_URL = "https://fwhfqbsheitlcorhhtwv.supabase.co";
-  var SUPABASE_KEY = "__SUPABASE_KEY__";
+  var SUPABASE_KEY = "sb_publishable_frGtndCLJgVtXXcDHHQP3w_gbTGHA41";
 
   function setBusy(busy) {
     var btn = form.querySelector('button[type="submit"]');
