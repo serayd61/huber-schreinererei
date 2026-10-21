@@ -1,0 +1,24 @@
+# Abhängigkeiten
+node_modules/
+
+# Umgebungsvariablen und Geheimnisse
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Betriebssystem und Editoren
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Vercel und lokale Werkzeuge
+.vercel/
+.playwright-mcp/
+*.log
+
+# Generierte Vorschau (nur für die Claude-Artifact-Ansicht)
+_artifact_preview.html

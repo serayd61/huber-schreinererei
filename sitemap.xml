@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.schreinerei-huber.ch/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.schreinerei-huber.ch/img/hero.jpg</image:loc>
+      <image:title>Werkstatt der Huber Schreinerei Innenausbau AG</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.schreinerei-huber.ch/img/kueche.jpg</image:loc>
+      <image:title>Küche in Eiche</image:title>
+    </image:image>
+  </url>
+</urlset>
